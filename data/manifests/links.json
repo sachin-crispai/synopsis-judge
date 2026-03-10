@@ -1,0 +1,66 @@
+[
+  {
+    "id": "L001",
+    "title": "Science fair project lookup",
+    "category": "project_lookup",
+    "url": "https://science-fair.org/database/foldertable.php",
+    "source": "whatsapp_chat_visible_text",
+    "access_notes": "Some users reported 'Too many requests' in chat."
+  },
+  {
+    "id": "L002",
+    "title": "Google Meet call link",
+    "category": "meeting",
+    "url": "https://meet.google.com/hrg-qqug-ebn?authuser=0&hs=122&ijlm=1773025328765",
+    "source": "whatsapp_chat_visible_text",
+    "access_notes": "May require authorized Google account."
+  },
+  {
+    "id": "L003",
+    "title": "Venue map link",
+    "category": "maps",
+    "url": "https://maps.app.goo.gl/xhWHvTUbqg2yj6FG6",
+    "source": "whatsapp_chat_visible_text",
+    "access_notes": "Public maps short link."
+  },
+  {
+    "id": "L004",
+    "title": "Upper Division Projects for In-Person Judging",
+    "category": "google_drive_file",
+    "url": "https://drive.google.com/file/d/1wGzoBjRBvUpeMoyAbPIA4eUCJy5FfVGD/view?usp=drive_link",
+    "source": "whatsapp_chat_visible_text",
+    "access_notes": "May require Google Drive permission."
+  },
+  {
+    "id": "L005",
+    "title": "Projects for In-Person Judging",
+    "category": "google_drive_file",
+    "url": "https://drive.google.com/file/d/14PlOtv0-qw75NA7TEJIMqDmsdeYpD6Rv/view?usp=drive_link",
+    "source": "whatsapp_chat_visible_text",
+    "access_notes": "May require Google Drive permission."
+  },
+  {
+    "id": "L006",
+    "title": "Guideline Documents for Round 1 and Round 2",
+    "category": "google_drive_folder",
+    "url": "https://drive.google.com/drive/folders/1178PsIWgOJZo-203l3WcV6xTepX00pkM?usp=drive_link",
+    "source": "whatsapp_chat_visible_text",
+    "access_notes": "May require Google Drive permission."
+  },
+  {
+    "id": "L007",
+    "title": "Floor Map",
+    "category": "google_drive_file",
+    "url": "https://drive.google.com/file/d/1kHU1LdD8djtzncaKL0SofkBnkRk54XqC/view?usp=drive_link",
+    "source": "whatsapp_chat_visible_text",
+    "access_notes": "May require Google Drive permission."
+  },
+  {
+    "id": "L008",
+    "title": "LinkedIn profile mentioned in chat",
+    "category": "reference",
+    "url": "https://www.linkedin.com/in/saidulu-aldas-4a9b74376",
+    "source": "whatsapp_chat_visible_text",
+    "access_notes": "Converted to canonical https URL."
+  }
+]

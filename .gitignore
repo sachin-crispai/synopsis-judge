@@ -18,3 +18,9 @@ htmlcov/
 .mypy_cache/
 outputs/
 *.log
+
+# Raw binary downloads (large files — store locally, not in git)
+data/raw/*
+!data/raw/.gitkeep
+data/processed/*
+!data/processed/.gitkeep
