@@ -36,6 +36,7 @@ end tell
 
 - `skimread <file>`
   - Command: `open -a Skim <file>`
+  - Note: Skim is a PDF reader. It will not reliably open `.md` files; use PDF outputs for Skim workflows.
 
 ## Post-Push Verification
 
@@ -60,3 +61,4 @@ git push origin main
 ## Change Log
 
 - 2026-03-10: Initial notebook. Added `atlas open left/right`, `atlasread`, `skimread`, post-push verification, SSH alias, sync_operations workflow.
+- 2026-03-10: Clarified that Skim workflows must target PDF files (not Markdown).
