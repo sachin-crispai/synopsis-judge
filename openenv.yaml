@@ -1,0 +1,16 @@
+environment:
+  name: Synopsis Judge
+  version: 0.1.0
+  statement: Automate ACM science fair synopsis judging — scoring, ranking, and report generation
+  provider: sachin-crispai
+  partial_observability: false
+  actions:
+    - ingest_submission
+    - score_submission
+    - aggregate_scores
+    - rank_submissions
+    - generate_report
+  reward_structure:
+    - criterion_accuracy: correctness of rubric criterion scoring
+    - consistency: agreement across multiple judges
+    - efficiency: submissions processed within step budget
