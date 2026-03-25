@@ -1,0 +1,16 @@
+{
+  "project": "science_fair_2026_acm_judges_whatsapp_extract",
+  "generated_from": "visible WhatsApp Web page context",
+  "generated_on": "2026-03-10",
+  "counts": {
+    "links": 8,
+    "document_entries": 13,
+    "downloadable_links": 8,
+    "non_downloadable_whatsapp_attachments": 9
+  },
+  "limitations": [
+    "WhatsApp inline attachments were visible as filenames only; binary download URLs were not present in the supplied page context.",
+    "Some Google Drive links may require manual authentication and permission approval.",
+    "One PDF filename appeared twice in the chat; both occurrences were preserved in the manifest."
+  ]
+}

@@ -1,0 +1,119 @@
+[
+  {
+    "id": "D001",
+    "filename": "SFBayACM Judging Guidelines.docx",
+    "kind": "whatsapp_attachment",
+    "extension": ".docx",
+    "url": "",
+    "downloadable_from_context": false,
+    "notes": "Visible in chat, but actual WhatsApp file URL not exposed in provided page context."
+  },
+  {
+    "id": "D002",
+    "filename": "Science Fair Scoring (Round 1).docx",
+    "kind": "whatsapp_attachment",
+    "extension": ".docx",
+    "url": "",
+    "downloadable_from_context": false,
+    "notes": "Visible in chat, but actual WhatsApp file URL not exposed in provided page context."
+  },
+  {
+    "id": "D003",
+    "filename": "Science Fair Scoring (Round 2) Interview.docx",
+    "kind": "whatsapp_attachment",
+    "extension": ".docx",
+    "url": "",
+    "downloadable_from_context": false,
+    "notes": "Visible in chat, but actual WhatsApp file URL not exposed in provided page context."
+  },
+  {
+    "id": "D004",
+    "filename": "2026_ACMSV_209_floor_map_0303.pdf",
+    "kind": "whatsapp_attachment",
+    "extension": ".pdf",
+    "url": "",
+    "downloadable_from_context": false,
+    "notes": "Visible in chat, but actual WhatsApp file URL not exposed in provided page context."
+  },
+  {
+    "id": "D005",
+    "filename": "ACM_PreScreen_Access_After.xlsx - Upper Division.pdf",
+    "kind": "whatsapp_attachment",
+    "extension": ".pdf",
+    "url": "",
+    "downloadable_from_context": false,
+    "notes": "Visible in chat, but actual WhatsApp file URL not exposed in provided page context."
+  },
+  {
+    "id": "D006",
+    "filename": "ACM_PreScreen_Access_After.xlsx - Lower Division.pdf",
+    "kind": "whatsapp_attachment",
+    "extension": ".pdf",
+    "url": "",
+    "downloadable_from_context": false,
+    "notes": "Visible in chat, but actual WhatsApp file URL not exposed in provided page context."
+  },
+  {
+    "id": "D007",
+    "filename": "2026_Science_Fair_In_person_Lower_D_Judges_Projects.xlsx - Lower.pdf",
+    "kind": "whatsapp_attachment",
+    "extension": ".pdf",
+    "url": "",
+    "downloadable_from_context": false,
+    "notes": "Visible in chat, but actual WhatsApp file URL not exposed in provided page context."
+  },
+  {
+    "id": "D008",
+    "filename": "2026_Science_Fair_In_person_Upper_D_Judges_Projects.xlsx - Upper.pdf",
+    "kind": "whatsapp_attachment",
+    "extension": ".pdf",
+    "url": "",
+    "downloadable_from_context": false,
+    "notes": "Visible in chat, but actual WhatsApp file URL not exposed in provided page context."
+  },
+  {
+    "id": "D009",
+    "filename": "2026_ACMSV_209_floor_map_0303.pdf",
+    "kind": "whatsapp_attachment",
+    "extension": ".pdf",
+    "url": "",
+    "downloadable_from_context": false,
+    "notes": "Duplicate filename appeared more than once in chat history."
+  },
+  {
+    "id": "D010",
+    "filename": "Upper Division Projects for In-Person Judging",
+    "kind": "drive_linked_document",
+    "extension": "",
+    "url": "https://drive.google.com/file/d/1wGzoBjRBvUpeMoyAbPIA4eUCJy5FfVGD/view?usp=drive_link",
+    "downloadable_from_context": true,
+    "notes": "Linked in chat via Google Drive."
+  },
+  {
+    "id": "D011",
+    "filename": "Projects for In-Person Judging",
+    "kind": "drive_linked_document",
+    "extension": "",
+    "url": "https://drive.google.com/file/d/14PlOtv0-qw75NA7TEJIMqDmsdeYpD6Rv/view?usp=drive_link",
+    "downloadable_from_context": true,
+    "notes": "Linked in chat via Google Drive."
+  },
+  {
+    "id": "D012",
+    "filename": "Guideline Documents for Round1 and Round2",
+    "kind": "drive_linked_document",
+    "extension": "",
+    "url": "https://drive.google.com/drive/folders/1178PsIWgOJZo-203l3WcV6xTepX00pkM?usp=drive_link",
+    "downloadable_from_context": true,
+    "notes": "Linked in chat via Google Drive folder."
+  },
+  {
+    "id": "D013",
+    "filename": "Floor Map",
+    "kind": "drive_linked_document",
+    "extension": "",
+    "url": "https://drive.google.com/file/d/1kHU1LdD8djtzncaKL0SofkBnkRk54XqC/view?usp=drive_link",
+    "downloadable_from_context": true,
+    "notes": "Linked in chat via Google Drive."
+  }
+]

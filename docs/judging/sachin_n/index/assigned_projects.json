@@ -1,0 +1,134 @@
+[
+  {
+    "order": "01",
+    "date": "2026-05-20",
+    "project_code": "A31",
+    "division": "Upper",
+    "category": "SoftEng",
+    "title": "Indoor Navigation for the Blind Using Vision Models and Floor Plan Integration",
+    "drive_folder_url": "https://drive.google.com/drive/folders/1u6ygbmNet8bZ3pI3RsLFEHCQnqrmchbi",
+    "local_abstract_pdf": "docs/judging/sachin_n/projects/01_A31/abstract/A31 Abstract.pdf",
+    "local_project_pdf": ""
+  },
+  {
+    "order": "02",
+    "date": "2026-05-22",
+    "project_code": "A49",
+    "division": "Upper",
+    "category": "SoftEng",
+    "title": "A novel, multistep neural network approach to improve anomaly detection in online operational status",
+    "drive_folder_url": "https://drive.google.com/drive/folders/12s0NUGQAa9psEZ5SydQPRShawfXCt9jS",
+    "local_abstract_pdf": "docs/judging/sachin_n/projects/02_A49/abstract/A49.Abstract.pdf",
+    "local_project_pdf": ""
+  },
+  {
+    "order": "03",
+    "date": "2026-05-18",
+    "project_code": "A59",
+    "division": "Upper",
+    "category": "SoftEng",
+    "title": "ROCA: A Dynamic Metaheuristic Framework for Route Optimization Using Context-Aware Simulation of Ant Colony Systems",
+    "drive_folder_url": "https://drive.google.com/drive/folders/1mSpY4i0basUULyRQk6lzUuSZASyWCIbM",
+    "local_abstract_pdf": "docs/judging/sachin_n/projects/03_A59/abstract/A59-Abstract.pdf",
+    "local_project_pdf": ""
+  },
+  {
+    "order": "04",
+    "date": "2026-05-24",
+    "project_code": "A73",
+    "division": "Upper",
+    "category": "SoftEng",
+    "title": "Real-time Disaster Search & Rescue System utilizing Semantic Segmentation and Object Recognition onboard Fixed-wing UAV",
+    "drive_folder_url": "https://drive.google.com/drive/folders/1RZGG1iGRCSWn9DhIVFrtusqrC-saTohy",
+    "local_abstract_pdf": "docs/judging/sachin_n/projects/04_A73/abstract/A73.Abstract.pdf",
+    "local_project_pdf": ""
+  },
+  {
+    "order": "05",
+    "date": "2026-05-26",
+    "project_code": "A74",
+    "division": "Upper",
+    "category": "SoftEng",
+    "title": "Fuzzing the Proofs: Designing a Coverage-guided Software to Reveal Vulnerabilities in Zero-Knowledge Proofs",
+    "drive_folder_url": "https://drive.google.com/drive/folders/1ulr5dC9L8X4S8Cndx2WWve79tGuNswcv",
+    "local_abstract_pdf": "docs/judging/sachin_n/projects/05_A74/abstract/A74.Abstract.pdf",
+    "local_project_pdf": ""
+  },
+  {
+    "order": "06",
+    "date": "2026-05-15",
+    "project_code": "E13",
+    "division": "Upper",
+    "category": "Math",
+    "title": "A Convex Directional Spline Approach with Huber-Regularized Loss for Stable Deep Optimization",
+    "drive_folder_url": "https://drive.google.com/drive/folders/1YgWHTnSf4Azf1iJD9MijVjINKAVfhQ-p",
+    "local_abstract_pdf": "docs/judging/sachin_n/projects/06_E13/abstract/E13.Abstract.pdf",
+    "local_project_pdf": ""
+  },
+  {
+    "order": "07",
+    "date": "2026-05-12",
+    "project_code": "H35",
+    "division": "Upper",
+    "category": "Math",
+    "title": "Combinatorial Game and Graph Decisions for Faster and More Accurate Solvers in Discretized Domains",
+    "drive_folder_url": "https://drive.google.com/drive/folders/1Mk0A0qLoPNUQMCrYX1Lx8B9CoNSKTH7E",
+    "local_abstract_pdf": "docs/judging/sachin_n/projects/07_H35/abstract/H35.Abstract.pdf",
+    "local_project_pdf": ""
+  },
+  {
+    "order": "08",
+    "date": "2026-05-23",
+    "project_code": "L92",
+    "division": "Upper",
+    "category": "SoftEng",
+    "title": "Optimizing Barter Trading Networks",
+    "drive_folder_url": "https://drive.google.com/drive/folders/1yv4raDy3b8NafOc2p-PH5ICI3IlXNPNT",
+    "local_abstract_pdf": "docs/judging/sachin_n/projects/08_L92/abstract/L92.Abstract.pdf",
+    "local_project_pdf": ""
+  },
+  {
+    "order": "09",
+    "date": "2026-05-21",
+    "project_code": "O82",
+    "division": "Upper",
+    "category": "SoftEng",
+    "title": "From Raw Stats to Real Answers: Building an AI Assistant for NBA Analytics",
+    "drive_folder_url": "https://drive.google.com/drive/folders/16E_VIKPBrUkdgRwuvEoAKoB2wFuzX6cB",
+    "local_abstract_pdf": "docs/judging/sachin_n/projects/09_O82/abstract/Project-abstract-interactive-250-Revised-2023-INT.pdf",
+    "local_project_pdf": ""
+  },
+  {
+    "order": "10",
+    "date": "2026-05-16",
+    "project_code": "P99",
+    "division": "Upper",
+    "category": "Math",
+    "title": "Online Learning of Smooth Functions with Caps",
+    "drive_folder_url": "https://drive.google.com/drive/folders/1LAK9doBlRgLhr-nvyt0qZMmxnyFIzAl5",
+    "local_abstract_pdf": "docs/judging/sachin_n/projects/10_P99/abstract/P99.Abstract.pdf",
+    "local_project_pdf": ""
+  },
+  {
+    "order": "11",
+    "date": "2026-05-25",
+    "project_code": "Q38",
+    "division": "Upper",
+    "category": "SoftEng",
+    "title": "A Deep Learning Approach for Multimodal Classification of Cognitive Patterns Using Speech, Drawing, and Gamified Tasks",
+    "drive_folder_url": "https://drive.google.com/drive/folders/1wB3Wv7jMK4gjt11360-lBU1hOFvOGxQ4",
+    "local_abstract_pdf": "docs/judging/sachin_n/projects/11_Q38/abstract/Q38.Abstract.pdf",
+    "local_project_pdf": ""
+  },
+  {
+    "order": "12",
+    "date": "2026-05-17",
+    "project_code": "R16",
+    "division": "Upper",
+    "category": "Math",
+    "title": "On the Distance Distribution of Reed-Muller Codes",
+    "drive_folder_url": "https://drive.google.com/drive/folders/1ncbSzjmFoGnxK2n11lGriZg-EhLEO2RO",
+    "local_abstract_pdf": "docs/judging/sachin_n/projects/12_R16/abstract/R16.Abstract.pdf",
+    "local_project_pdf": ""
+  }
+]
